@@ -1,0 +1,10 @@
+# Build files and SDK
+android-tv-tamilian/android-sdk/
+android-tv-tamilian/commandlinetools-linux-*.zip
+.gradle/
+build-output/
+debug.keystore
+gradle/
+
+# Keep the main APK for download
+!tamilian-tv-signed.apk
